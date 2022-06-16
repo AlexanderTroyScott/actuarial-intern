@@ -8,6 +8,7 @@
 
 ## Programming
 [UC Business Analytics R Programming Guide](http://uc-r.github.io/predictive)
+[Julia Actuary](https://juliaactuary.org/)
 
 ## Misc
 
