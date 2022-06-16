@@ -7,7 +7,7 @@
 [The Infinite Actuary](https://www.theinfiniteactuary.com/)
 
 ## Programming
-[UC Business Analytics R Programming Guide](http://uc-r.github.io/predictive)
+[UC Business Analytics R Programming Guide](http://uc-r.github.io/predictive) \
 [Julia Actuary](https://juliaactuary.org/)
 
 ## Misc
